@@ -1,0 +1,22 @@
+{
+"products" : [{"id":1,"name":"Capuchin, weeper","category":"Mauv"},
+{"id":2,"name":"Wallaby, dama","category":"Mauv"},
+{"id":3,"name":"Anteater, giant","category":"Indigo"},
+{"id":4,"name":"Black-crowned night heron","category":"Green"},
+{"id":5,"name":"Southern black-backed gull","category":"Red"},
+{"id":6,"name":"Pintail, white-cheeked","category":"Khaki"},
+{"id":7,"name":"Azara's zorro","category":"Red"},
+{"id":8,"name":"Striped dolphin","category":"Maroon"},
+{"id":9,"name":"Capuchin, brown","category":"Teal"},
+{"id":10,"name":"Phascogale, red-tailed","category":"Purple"},
+{"id":11,"name":"Verreaux's sifaka","category":"Pink"},
+{"id":12,"name":"Desert kangaroo rat","category":"Yellow"},
+{"id":13,"name":"Goose, cereopsis","category":"Yellow"},
+{"id":14,"name":"Ring-tailed possum","category":"Goldenrod"},
+{"id":15,"name":"Potoroo","category":"Khaki"},
+{"id":16,"name":"Turtle, long-necked","category":"Maroon"},
+{"id":17,"name":"Marmot, hoary","category":"Crimson"},
+{"id":18,"name":"Common nighthawk","category":"Crimson"},
+{"id":19,"name":"Lion, australian sea","category":"Crimson"},
+{"id":20,"name":"Thrasher, curve-billed","category":"Turquoise"}]
+}
